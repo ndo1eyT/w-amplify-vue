@@ -38,7 +38,7 @@ function createTodo() {
 
 <template>
   <main>
-    <h1>My todos</h1>
+<h1>Production Management System</h1>
     <button @click="createTodo">+ new</button>
     <ul>
       <li 
